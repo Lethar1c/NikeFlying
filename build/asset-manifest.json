@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b13901fe.css",
+    "main.js": "/static/js/main.5bbf959e.js",
+    "static/js/453.993e129c.chunk.js": "/static/js/453.993e129c.chunk.js",
+    "static/media/sneakers-2.png": "/static/media/sneakers-2.467e13438a0a94ddfd68.png",
+    "static/media/sneakers-1.png": "/static/media/sneakers-1.52c0fcb30877e323bab8.png",
+    "static/media/sneakers-3.png": "/static/media/sneakers-3.7938fe87df9f6d17e0e2.png",
+    "static/media/profileIcon.svg": "/static/media/profileIcon.4a093df3f1a82d8453ed3cb1fb0aab40.svg",
+    "static/media/cartIcon.svg": "/static/media/cartIcon.5700426e8f6e00c98df8376d7a181150.svg",
+    "index.html": "/index.html",
+    "static/media/nikeBg.svg": "/static/media/nikeBg.f6c8b1a4ceca6831889565dfec439187.svg",
+    "static/media/nikeLogo.svg": "/static/media/nikeLogo.a978b695fec158bbd6f79da447fdfd5b.svg",
+    "main.b13901fe.css.map": "/static/css/main.b13901fe.css.map",
+    "main.5bbf959e.js.map": "/static/js/main.5bbf959e.js.map",
+    "453.993e129c.chunk.js.map": "/static/js/453.993e129c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b13901fe.css",
+    "static/js/main.5bbf959e.js"
+  ]
+}
