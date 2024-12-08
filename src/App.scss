@@ -1,0 +1,25 @@
+$header-font-style: sans-serif;
+$header-font-color: #ffffff;
+$info-font-style: sans-serif;
+$info-font-color: #ffffff;
+
+.container {
+  margin: auto;
+  width: 100%;
+  max-width: 1440px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+body {
+  background-color: #E32C2C;
+  overflow-x: hidden;
+  transition: background-color 1.2s;
+}
+
+.App {
+  padding: 15px;
+  height: 100%;
+  position: relative;
+}

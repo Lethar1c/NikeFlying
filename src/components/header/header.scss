@@ -1,0 +1,35 @@
+header {
+    height: 100px;
+    .logo {
+        width: 12%;
+        max-width: 160px;
+        img {
+            width: 100%;
+        }
+    }
+
+    .tabs {
+        width: 65%;
+        max-width: 600px;
+        ul {
+            font-family: 'Londrina Solid';
+            color: #FFFFFF;
+            font-weight: 300;
+            font-style: normal;
+            text-transform: uppercase;
+            font-size: 1.75rem;
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+
+    .profile {
+        ul {
+            display: flex;
+        }
+        li + li {
+            margin-left: 25px;
+        }
+        width: 10%;
+    }
+}
